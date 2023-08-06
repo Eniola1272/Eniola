@@ -10,4 +10,4 @@
 
 💙 Leave a star ⭐
 
-![preview img](/preview.png)
+
